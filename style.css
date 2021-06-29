@@ -20,14 +20,14 @@ body {
 #searchbar {
     font-size: 15px;
     font-family: Arial, Helvetica, sans-serif;
-    padding: 10px;
+    padding: 10px 300px;
     margin: 10px auto;
     display: block;
-    border-bottom: solid;
     border-width: 50%;
     text-align: center;
     color: white;
-    opacity: 0.5;
+    opacity: 1;
+    background-color: transparent;
 }
 
 #streamtext {

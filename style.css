@@ -5,16 +5,16 @@ body {
 }
 
 #back {
-    background-image: url(AlcherStream/logo.svg), url(AlcherStream/bg.png);
-    background-position: top left, center;
+    background-image: url(AlcherStream/logo.svg), url(AlcherStream/profile.svg), url(AlcherStream/bg.png);
+    background-position: top left, top right, center;
     background-repeat: no-repeat;
     width: 100%;
     margin: 0;
     padding: 0;
-    -webkit-background-size: auto, cover;
-    -moz-background-size: auto, cover;
-    -o-background-size: auto, cover;
-    background-size: auto, cover;
+    -webkit-background-size: auto, 40px 40px, 1550px 950px;
+    -moz-background-size: auto, 40px 40px, 1550px 950px;
+    -o-background-size: auto, 40px 40px, 1550px 950px;
+    background-size: auto, 40px 40px, 1550px 950px;
 }
 
 #searchbar {
